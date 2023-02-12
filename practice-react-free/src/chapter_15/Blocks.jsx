@@ -16,7 +16,7 @@ const Block = styled.div`
     background-color: ${(props) => props.backgroundColor};
     color: white;
     font-size: 2rem;
-    font-wieght: bold;
+    font-weight: bold;
     text-align: center;
 `;
 
