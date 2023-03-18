@@ -32,8 +32,8 @@ root.render(
   // <SignUp />
   // <Calculator />
   // <ProfileCard />
-  // <DarkOrLight />
-  <Blocks />
+  <DarkOrLight />
+  // <Blocks />
   // </React.StrictMode>
 );
 
